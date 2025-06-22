@@ -8,7 +8,7 @@
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
-// scen delegate test  to ramu123456
+// scen delegate
     var window: UIWindow?
 
 
